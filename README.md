@@ -1,1 +1,1 @@
-# Coursera-JavaScript-module4-solution
+# Coursera-HTML-module4-solution
