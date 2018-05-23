@@ -1,2 +1,2 @@
-# How to run:
-Main.py
+## Sentiment Analysis
+Apply machine learning algorithms to classify sentiment from input text.
